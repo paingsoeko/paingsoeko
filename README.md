@@ -1,21 +1,15 @@
-# Hi there, I'm Paing Soe Ko! 👋
+### Hey there 👋 I'm Paing Soe Ko
+I'm a passionate software developer based in Bangkok, Thailand, where I live with my friend. I enjoy writing clean, efficient code and constantly learning new technologies.
 
-I am a passionate software developer with a knack for creating impactful projects.
+I'm currently working with the talented team at PICO Innovation, and in my spare time, I’m building [ERP POS](beta.picosbs.com)—a robust cloud-based business management platform.
 
-## 🚀 About Me
-- 🌱 Currently exploring: Dart, SWIFT, Flutter
-- 💬 Ask me about: Multi Tenancy, Muilti Auth, Laravel Package, Inventory Flow
-- 📫 How to reach me: work.kopaing@gmail.com
-- 😄 Pronouns: kopaing
-- ⚡ Fun fact: do something
-## 🛠️ Skills
-- **Languages**: HTML, CSS, JS, PHP, Dart
-- **Frameworks**: Tailwin, JQuery, Laravel, Swift , Flutter, etc..
+[![Paing Soe Ko's github stats](https://github-readme-stats.vercel.app/api?username=paingsoeko)](https://github.com/paingsoeko/github-readme-stats)
 
-## 📈 GitHub Stats
-![Paing Soe Ko's GitHub Stats](https://github-readme-stats.vercel.app/api?username=paingsoeko&show_icons=true&theme=radical)
+🔧 Actively developing open-source tools and scaling software at PICO Innovation
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paingsoeko&layout=compact&theme=radical)
+🌱 Always exploring new frameworks, patterns, and ideas
 
-## 🔗 Connect with Me
-[GitHub](https://github.com/paingsoeko) | [LinkedIn](https://www.linkedin.com/in/paingsoeko)
+💼 Building ERP solutions that power real businesses
+
+📫 Let's connect on [LinkedIn](https://www.linkedin.com/in/paingsoeko)
+
